@@ -4,10 +4,6 @@ A fast checkout that integrates your company to the payments and fraud ecosystem
 ‍
 Checkout + Routing + Reconciliations + Alternative Payment Methods
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
 ## Installation
 
 ### [Swift Package Manager](https://swift.org/package-manager/)
